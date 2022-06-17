@@ -1,2 +1,4 @@
-# Alura-Store
-Site da Alura-Store desenvolvido com o intuito de praticar Grid (HTML5 - CSS3)
+Responsivo nas resoluções: mobile, tablet e desktop(1440px)
+
+Disponível para visualização no link: https://igorcalbo.github.io/Alura-Store/
+
